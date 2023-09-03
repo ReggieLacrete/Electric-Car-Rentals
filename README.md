@@ -16,6 +16,6 @@
 <h3 align='center'>Home Page 🏡</h3>
 
 <div align='center'>
-<img src='https://github-production-user-asset-6210df.s3.amazonaws.com/133793148/265275362-2d2d4be8-3be5-4e90-875d-d23946aac825.png'/>
+<img src='https://github.com/ReggieLacrete/Electric-Car-Rentals/assets/133793148/b01acdf4-4b09-4fda-af1d-e058adcb4e5e'/>
 
 </div>
