@@ -24,6 +24,11 @@ simple shopping experience that puts the focus on the products.</p>
 
 <h3 align='center'>Home Page 🏡</h3>
 
+<<<<<<< HEAD
+=======
+<div align='center'>
+<img src='https://github.com/ReggieLacrete/Electric-Car-Rentals/assets/133793148/b01acdf4-4b09-4fda-af1d-e058adcb4e5e'/>
+>>>>>>> 1601f8ca11cb0ca648c751a1bcec6c62a24b16e5
 
 <div align='center'>
 <img src='https://github-production-user-asset-6210df.s3.amazonaws.com/133793148/265275841-373cff6e-b1e4-4e19-9a1d-806f97583832.png'/>
