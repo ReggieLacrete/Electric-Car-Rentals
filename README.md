@@ -23,7 +23,6 @@
 
 <h3 align='center'>Home Page 🏡</h3>
 
-<<<<<<< HEAD
-=======
+
 <div align='center'>
 <img src='https://github.com/ReggieLacrete/Electric-Car-Rentals/assets/133793148/b01acdf4-4b09-4fda-af1d-e058adcb4e5e'/>
