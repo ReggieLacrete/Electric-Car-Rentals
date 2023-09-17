@@ -1,20 +1,19 @@
-<div align='center'><img src='https://github-production-user-asset-6210df.s3.amazonaws.com/133793148/265273958-adf98a2e-b44e-485a-83d3-bf67cd8ffef1.png'/></div>
+<div align='center'><img src='https://github.com/ReggieLacrete/Electric-Car-Rentals/assets/133793148/d7e9f373-da9e-426a-b71e-2e5f785dc8e6'/></div>
+
 
 <h2>About the project</h2>
 
-<p>This is a e-commerce website built with React and CSS. This
-website features a modern and intuitive design, with easy-to-use navigation and a
-simple shopping experience that puts the focus on the products.</p>
+<p>A electric car rental website is an online platform that allows users to rent electric cars for personal or business use. The website provides an easy-to-use interface for searching, comparing, and reserving cars from a wide selection of vehicles that vary in make, model, size, and price.</p>
 
 
 
-👉 Live Demo: <a href='soon'>Ecommerce Demo</a>
+👉 Live Demo: <a href='soon'>Electric Rentals</a>
 
 
 
 <h3>Build with:</h3>
 
-» Vanila CSS <br>
+» Sass / Scss <br>
 » React JS
 
 
@@ -28,33 +27,3 @@ simple shopping experience that puts the focus on the products.</p>
 =======
 <div align='center'>
 <img src='https://github.com/ReggieLacrete/Electric-Car-Rentals/assets/133793148/b01acdf4-4b09-4fda-af1d-e058adcb4e5e'/>
->>>>>>> 1601f8ca11cb0ca648c751a1bcec6c62a24b16e5
-
-<div align='center'>
-<img src='https://github-production-user-asset-6210df.s3.amazonaws.com/133793148/265275841-373cff6e-b1e4-4e19-9a1d-806f97583832.png'/>
-</div>
-
-<br>
-<br>
-<h3 align='center'>Categories Page 👇</h3>
-
-<div align='center'>
-<img src='https://github-production-user-asset-6210df.s3.amazonaws.com/133793148/265275939-f41dc251-b746-4898-b0a9-1bdcf3c0ba2c.png'/>
-
-<br>
-<br>
-<h3 align='center'>Product Page 🎁</h3>
-
-<div align='center'>
-<img src='https://github-production-user-asset-6210df.s3.amazonaws.com/133793148/265274526-9525db6c-1e48-4560-9d4f-b8bbc2fe0361.png'/>
-
-<br>
-<br>
-<h3 align='center'>Shopping Cart 🛒</h3>
-
-<div align='center'>
-<img src='https://github-production-user-asset-6210df.s3.amazonaws.com/133793148/265274592-31c2bab5-7f96-4426-ab12-3d1882bda30f.png'/>
-</div>
-
-
-
